@@ -1,1 +1,4 @@
 python-telegram-bot
+python-dotenv
+gigachat
+sentence-transformers
