@@ -1,0 +1,7 @@
+python-telegram-bot
+python-dotenv
+sentence-transformers
+torch
+gigachat
+pypdf
+numpy
