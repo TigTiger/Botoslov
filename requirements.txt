@@ -1,11 +1,1 @@
 python-telegram-bot
-python-dotenv
-gigachat
-numpy
-scipy
-scikit-learn
-transformers
-huggingface-hub
-sentence-transformers
---extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.3.1+cpu
